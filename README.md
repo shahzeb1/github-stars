@@ -4,7 +4,7 @@
 
 Built using [micro](https://github.com/zeit/micro).
 
-Clone it and run `npm start`.
+Clone it, run `npm install` to install dependencies, then `npm start` run .
 
 Afer changing rep URL in `request` run `now` to publish via [Ziet](https://zeit.co/docs/examples/json-api). 
 
