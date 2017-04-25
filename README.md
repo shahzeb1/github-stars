@@ -10,7 +10,7 @@ Afer changing rep URL in `request` run `now` to publish via [Ziet](https://zeit.
 
 ### Response: 
 
-`json
+```json
 {
 user: "twbs",
 repo_name: "bootstrap",
@@ -18,4 +18,4 @@ user_link: "https://github.com/twbs",
 repo_link: "https://github.com/twbs/bootstrap",
 stars: 109780
 }
-`
+```
